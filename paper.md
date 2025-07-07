@@ -20,7 +20,7 @@ date: 2025-06-25
 
 # Statement of Need
 
-Critical systems require more than binary test results — they need dynamic frameworks that can detect patterns and respond to emergent risks. VLRK-Lite introduces score-based anomaly detection to CI/CD and QA pipelines, enabling pre-alerts before production regression.
+Critical systems require more than binary test results - they need dynamic frameworks that can detect patterns and respond to emergent risks. VLRK-Lite introduces score-based anomaly detection to CI/CD and QA pipelines, enabling pre-alerts before production regression.
 
 # Implementation
 
