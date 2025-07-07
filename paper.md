@@ -9,7 +9,7 @@ tags:
 authors:
   - name: Anna Deviatko
     affiliation: PGA TOUR
-    orcid: 0000-0000-0000-0000
+    orcid: 0009-0008-8424-7188
     email: annadev929@gmail.com
 date: 2025-06-25
 ---
@@ -28,4 +28,4 @@ VLRK-Lite is structured with modular components for monitoring, scoring, and ale
 
 # Acknowledgments
 
-This version reflects lessons learned while contributing to secure system readiness at Unity, Roku (via Sigma Software), and regulated platforms like Pin-Up.
+This version reflects lessons learned while contributing to secure system readiness.
